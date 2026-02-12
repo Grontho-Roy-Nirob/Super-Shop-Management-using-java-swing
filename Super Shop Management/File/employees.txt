@@ -1,0 +1,6 @@
+1001;Suzit;50000.0;Male
+1002;Arnob;20000.0;Male
+1003;Nafi;60000.0;Male
+1004;Grontho;30000.0;Male
+9854;Lipika;10000.0;Female
+1005;Priyanka;2000.0;Female

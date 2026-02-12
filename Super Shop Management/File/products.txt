@@ -1,0 +1,5 @@
+101;mango;120.0;18;summer;-;-
+102;coca cola;30.0;12;-;soft drink;-
+103;ilish;190.0;10;-;-;river fish
+104;apple;300.0;30;all;-;-
+105;Meat;700.0;48;-;-;deshi 
