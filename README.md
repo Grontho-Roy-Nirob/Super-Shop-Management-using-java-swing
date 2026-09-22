@@ -8,7 +8,7 @@ The system provides a user-friendly graphical interface for managing shop operat
 
 The application uses **File I/O** for persistent data storage without relying on a database.
 
-## TechStack
+## 🛠️ TechStack
 
 * Java
 * Java Swing
